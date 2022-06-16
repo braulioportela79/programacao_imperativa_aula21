@@ -26,16 +26,16 @@ class Aluno {
 
 let arrayAlunos = [];
 arrayAlunos.push(
-    new Aluno("Fernando Correa", "M", 1, [10, 9, 9], 1),
-    new Aluno("Antonio Martins", "M", 2, [6, 10, 5], 2),
-    new Aluno("Camila Gonçalves", "F", 3, [3, 2, 5], 1),
-    new Aluno("Geraldo Botelho", "M", 4, [10, 10, 10], 3),
-    new Aluno("Carlos Bretas", "M", 5, [10, 7, 6], 2),
-    new Aluno("Ricardo Teixeira", "M", 6, [8, 8, 8], 2),
-    new Aluno("Rafaela Martins", "F", 7, [8, 10, 6], 3),
-    new Aluno("Ana Claudia", "F", 8, [7, 3, 10], 3),
-    new Aluno("Bruno Cardoso", "M", 9, [9, 6, 9], 1),
-    new Aluno("Thais Abreu", "F", 10, [7, 10, 6], 2)
+    new Aluno('Fernando Correa', 'M', 1, [10, 9, 9], 1),
+    new Aluno('Antonio Martins', 'M', 2, [6, 10, 5], 2),
+    new Aluno('Camila Gonçalves', 'F', 3, [3, 2, 5], 1),
+    new Aluno('Geraldo Botelho', 'M', 4, [10, 10, 10], 3),
+    new Aluno('Carlos Bretas', 'M', 5, [10, 7, 6], 2),
+    new Aluno('Ricardo Teixeira', 'M', 6, [8, 8, 8], 2),
+    new Aluno('Rafaela Martins', 'F', 7, [8, 10, 6], 3),
+    new Aluno('Ana Claudia', 'F', 8, [7, 3, 10], 3),
+    new Aluno('Bruno Cardoso', 'M', 9, [9, 6, 9], 1),
+    new Aluno('Thais Abreu', 'F', 10, [7, 10, 6], 2)
 );
 // console.log(arrayAlunos);
 
